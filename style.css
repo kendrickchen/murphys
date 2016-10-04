@@ -1,0 +1,9 @@
+.background {
+  background: url('murphys-front.jpg') no-repeat center center fixed;
+  background-size: auto;
+  height: 700px;
+}
+
+#text {
+  color: white;
+}
